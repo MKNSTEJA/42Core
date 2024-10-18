@@ -1,0 +1,7 @@
+{
+    "files.autoSave": "afterDelay",
+    "files.associations": {
+		"libft.h": "c",
+		"ft_printf.h": "c"
+	}
+}
